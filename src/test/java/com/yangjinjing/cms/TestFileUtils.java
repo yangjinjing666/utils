@@ -15,7 +15,7 @@ import com.yangjinjing.cms.utils.FileUtils;
  */
 public class TestFileUtils {
 	
-	@Test
+/*	@Test
 	public void testGetSuffix() {
 		
 		String suffix = FileUtils.getSuffixName("D:\\program\\nodejs\\node_cache\\anonymous-cli-metrics.json");
@@ -64,7 +64,7 @@ public class TestFileUtils {
 		String src="D:\\project\\07b\\07b.zip";
 		String dst="D:\\project\\07b\\07b2.zip";
 		FileUtils.copy(src,dst );
-	} 
+	} */
 	
 	
 	
